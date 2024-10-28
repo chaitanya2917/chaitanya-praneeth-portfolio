@@ -1,0 +1,5 @@
+# _config.yml
+title: "Chaitanya Praneeth Portfolio"
+description: "Showcasing creativity and skills"
+theme: minima
+markdown: kramdown
